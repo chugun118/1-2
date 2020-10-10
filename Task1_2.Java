@@ -30,7 +30,7 @@ System.out.println(strArray[1]);
         int[] intArray = { 10, 20, 30, 40, 50 };
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // [ここへ記述]intArrayの2番目の要素値 ＋ intArrsyの5番目の値を出力。
+        // [ここへ記述]intArrayの2番目の値とintArrsyの5番目の値の加算結果を出力。
         System.out.println(intArray[1] + intArray[4]);
 
     }
